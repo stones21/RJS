@@ -1,1 +1,2 @@
+master not in feature 4
 Adding a line to the branched file.
