@@ -1,4 +1,4 @@
-Different master version. This is a test file for the lab.
+Updated in the feature 3. This is a test file for the lab.
 Editted in github website
 Using the fast forward merge
 
