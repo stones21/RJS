@@ -1,2 +1,7 @@
+more githubflow stuff
+more commits
+new commit
 master not in feature 4
 Adding a line to the branched file.
+added a second line
+
